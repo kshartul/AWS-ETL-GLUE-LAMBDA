@@ -1,5 +1,7 @@
 # AWS ETL Data Pipeline in Python on YouTube Data
 
+<img width="1062" height="655" alt="image" src="https://github.com/user-attachments/assets/bf9030a0-78cd-415f-acde-62301eefef30" />
+
 An end-to-end, serverless ETL pipeline built on AWS that ingests, cleanses, catalogs, transforms, and visualizes YouTube trending-video statistics — using **S3, Lambda, AWS Data Wrangler, Glue (Crawler + Spark Jobs + Studio), Athena, IAM, SNS, and QuickSight**, with infrastructure optionally automated via **Terraform**.
 
 ---
@@ -265,6 +267,5 @@ Follow `terraform/instructions.md` for account-specific variables (region, bucke
 
 ## 10. Notes
 
-- This project is based on the ProjectPro / Hackerday "Build an AWS ETL Data Pipeline in Python on YouTube Data" curriculum.
 - Adjust all bucket names, database names, account IDs, and regions to match your own AWS environment before running.
 - Clean up S3 buckets, Lambda functions, Glue jobs/crawlers, and QuickSight resources when done to avoid ongoing AWS charges.
