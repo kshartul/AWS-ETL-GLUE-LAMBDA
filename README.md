@@ -5,8 +5,7 @@
 An end-to-end, serverless ETL pipeline built on AWS that ingests, cleanses, catalogs, transforms, and visualizes YouTube trending-video statistics — using **S3, Lambda, AWS Data Wrangler, Glue (Crawler + Spark Jobs + Studio), Athena, IAM, SNS, and QuickSight**, with infrastructure optionally automated via **Terraform**.
 
 
-[Uploading Sheet_1_2026-10-19T07_03_15.pdf…]()
-
+![Uploading Screenshot 2026-10-19 123208.png…]()
 
 ---
 
