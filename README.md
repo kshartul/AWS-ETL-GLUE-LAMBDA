@@ -1,4 +1,3 @@
-<img width="1869" height="914" alt="Screenshot 2026-10-19 123208" src="https://github.com/user-attachments/assets/a3453d31-8d6c-4fcf-9c18-61d807c33264" /># AWS ETL Data Pipeline in Python on YouTube Data
 
 <img width="1062" height="655" alt="image" src="https://github.com/user-attachments/assets/bf9030a0-78cd-415f-acde-62301eefef30" />
 
