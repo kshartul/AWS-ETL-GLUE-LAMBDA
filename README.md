@@ -1,11 +1,11 @@
-# AWS ETL Data Pipeline in Python on YouTube Data
+<img width="1869" height="914" alt="Screenshot 2026-10-19 123208" src="https://github.com/user-attachments/assets/a3453d31-8d6c-4fcf-9c18-61d807c33264" /># AWS ETL Data Pipeline in Python on YouTube Data
 
 <img width="1062" height="655" alt="image" src="https://github.com/user-attachments/assets/bf9030a0-78cd-415f-acde-62301eefef30" />
 
 An end-to-end, serverless ETL pipeline built on AWS that ingests, cleanses, catalogs, transforms, and visualizes YouTube trending-video statistics — using **S3, Lambda, AWS Data Wrangler, Glue (Crawler + Spark Jobs + Studio), Athena, IAM, SNS, and QuickSight**, with infrastructure optionally automated via **Terraform**.
 
+<img width="1869" height="914" alt="Screenshot 2026-10-19 123208" src="https://github.com/user-attachments/assets/8cc03874-5a9a-49d1-9c54-04651f0a18b8" />
 
-![Uploading Screenshot 2026-10-19 123208.png…]()
 
 ---
 
